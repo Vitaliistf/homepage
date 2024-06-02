@@ -275,3 +275,9 @@
     .additional-info__languages-item {
       color: var(--secondary-text-color);
     }
+
+    .additional-info__education-university:not(:last-child) {
+      padding-bottom: 10px;
+      margin-bottom: 10px;
+      border-bottom: 2px solid var(--border-color);
+    }

@@ -282,3 +282,10 @@ body {
     margin-bottom: 10px;
     border-bottom: 2px solid var(--border-color);
 }
+
+/* Easter egg */
+
+#quick-text {
+    z-index: 3;
+    background-color: #ffffff;
+}

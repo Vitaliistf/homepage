@@ -171,6 +171,13 @@
     .skills__text {
       color: var(--secondary-text-color);
       text-align: justify;
+      line-height: 40px;
+    }
+
+    .skills__text .skill {
+        border: 2px var(--border-color) solid;
+        border-radius: 10px;
+        padding: 5px 10px;
     }
   
     /* Experience and additional info styles */
